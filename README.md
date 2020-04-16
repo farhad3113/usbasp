@@ -2,8 +2,12 @@
 
 USB Asp AVR programmer
 
+## Altium Preview
 ![Preview](https://github.com/farhad3113/usbasp/blob/master/PCB%20Preview.png)
 
+
+## Printed Board
+![Preview](https://github.com/farhad3113/usbasp/blob/master/PCB.jpg)
 
 Thanks [PCBWay](https://pcbway.com) to supporting my project.
 
